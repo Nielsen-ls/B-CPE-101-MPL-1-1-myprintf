@@ -1,4 +1,4 @@
-# My_printf Project
+# myprintf Project
 
 ## Description
 
@@ -39,7 +39,7 @@ To use the `my_printf` function in your project:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Nielsen-ls/B-CPE-101-MPL-1-1-myprintf.git
    cd B-CPE-101-MPL-1-1-myprintf
    ```
 
